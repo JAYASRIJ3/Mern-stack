@@ -1,0 +1,32 @@
+.btn{
+    background-color: red;
+    opacity: 1;
+}
+.demo{
+    background-color: aqua;
+    width:100vw;
+    height:100vh;
+}
+
+.bg-box1{
+    background-color: blueviolet;
+    height:100px;
+    width:100px;
+    padding: 10px;
+    margin:10px;
+}
+.bg-box2{
+    background-color: yellow;
+    height:100px;
+    width:100px;
+    border: 10px;
+    border-color:red;
+    border-style: dotted;
+    border-width: 5px;
+    border-radius: 10px;
+}
+.bg-box3{
+    background-color: green;
+    height:100px;
+    width:100px;
+}
